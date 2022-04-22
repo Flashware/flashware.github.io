@@ -1,0 +1,83 @@
+body{
+    background: linear-gradient(90deg, #1E2423 0%, #476263 64.06%);
+}
+h1{
+    position: absolute;
+    width: 231px;
+    height: 63px;
+    left: 32px;
+    top: 16px;
+    margin-top: 0%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 49px;
+    line-height: 67px;
+
+    /* background: linear-gradient(180deg, rgba(16, 227, 210, 1) 10.25%, rgba(16, 227, 210, 0.126) 21.25%, rgba(16, 227, 210, 0.357696) 56.77%, rgba(16, 227, 210, 0.531) 88.54%, rgba(37, 51, 58, 0.666) 100%); */
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(185, 247, 241, 0.9) 49.48%, rgba(139, 241, 233, 0.9) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    }
+h2{
+    position: absolute;
+    width: 109px;
+    height: 18px;
+    left: 77.79px;
+    top: 84.62px;
+    margin-top: 0%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.7042px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+p{
+    
+    position: absolute;
+    width: 606px;
+    height: 210px;
+    left: 84px;
+    top: 180px;
+    margin-top: 0%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 105px;
+
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(185, 247, 241, 0.9) 49.48%, rgba(139, 241, 233, 0.9) 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+}
+#logo{
+    position: absolute;
+    width: 548px;
+    height: 583.31px;
+    left: 700px;
+    top: 180px;}
+    
+#gear{
+    position: absolute;
+    width: 485.52px;
+    height: 330px;
+    left: 84px;
+    top: 450px;
+}
+#head_img{
+    position: absolute;
+    width: 231px;
+    height: 63px;
+    left: 32px;
+    top: 24px;
+}
