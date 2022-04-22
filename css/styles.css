@@ -1,18 +1,16 @@
 body{
     background: linear-gradient(90deg, #1E2423 0%, #476263 64.06%);
 }
-h1{
+#dont_clic{
     position: absolute;
-    width: 231px;
-    height: 63px;
-    left: 32px;
+    left: 1200px;
     top: 16px;
     margin-top: 0%;
 
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
-    font-size: 49px;
+    font-size: 12px;
     line-height: 67px;
 
     /* background: linear-gradient(180deg, rgba(16, 227, 210, 1) 10.25%, rgba(16, 227, 210, 0.126) 21.25%, rgba(16, 227, 210, 0.357696) 56.77%, rgba(16, 227, 210, 0.531) 88.54%, rgba(37, 51, 58, 0.666) 100%); */
@@ -80,4 +78,8 @@ p{
     height: 63px;
     left: 32px;
     top: 24px;
+}
+#meme{
+    width:1440px;
+    height: 1024px;
 }
